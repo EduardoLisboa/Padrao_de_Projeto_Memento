@@ -1,1 +1,3 @@
-# Padrao_de_Projeto_Memento
+# Padrão de Projeto - Memento
+
+Implementação explicativa do padrão de projeto **memento**.
